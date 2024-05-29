@@ -25,4 +25,4 @@ jobs:
           sonarcloudUrl: "http://localhost:9000"  
           token: ${{ secrets.SONAR_TOKEN }}
           # Path to the codebase to analyze (replace with your project directory)
-          projectKey: exp2
+          projectKey: D:\code
